@@ -6,7 +6,7 @@ _[none yet ready to publish]_
 
 ## Assets
 
-* [Makecode Arcade - base games](/mca-basegames)
+* [Makecode Arcade - base games](https://escape2make.github.io/mca-base-games)
 
 ## Our links
 
