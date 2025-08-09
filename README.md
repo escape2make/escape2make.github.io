@@ -1,3 +1,4 @@
+![Makers' Club logo](/makers-club-logo.jpg)
 ![Escape2Make logo](/logo.png)
 
 ## Projects by young people 
