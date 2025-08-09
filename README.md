@@ -1,6 +1,6 @@
-![Escape2Make logo](https://github.com/escape2make/escape2make.github.io/blob/main/logo.png)
+![Escape2Make logo](https://github.com/escape2make/escape2make.github.io/blob/main/docs/assets/images/logo.png)
 
-## Games made by young people 
+## Projects and Games made by young people 
 
 _[none yet ready to publish]_
 
