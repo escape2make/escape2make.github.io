@@ -1,4 +1,4 @@
-![Escape2Make logo](/escape2make.github.io/assets/images/logo.png)
+![Escape2Make logo](/logo.png)
 
 
 ## Projects and Games made by young people 
