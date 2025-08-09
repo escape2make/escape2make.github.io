@@ -1,19 +1,12 @@
 ![Escape2Make logo](/logo.png)
 
-
-## Projects and Games made by young people 
+## Projects by young people 
 
 _[none yet ready to publish]_
 
-## Bare bones games ([Makecode Arcade](arcade.makecode.arcade))
+## Assets
 
-* [Base RPG](https://escape2make.github.io/base-rpg/)
-* [Base platformer](https://escape2make.github.io/base-platformer/)
-* [Base maze](https://escape2make.github.io/base-maze/)
-* [Base shooty](https://escape2make.github.io/base-shooty/)
-* [Base 2 player](https://escape2make.github.io/base-2-player/)
-
-Click _edit_, at bottom of the linked pages, to make a copy for yourself and work to make it into a fleshed out game.
+* [Makecode Arcade - base games](/mca-basegames)
 
 ## Our links
 
