@@ -1,5 +1,5 @@
-![Makers' Club logo](assets/images/makers-club-logo.jpg)
-![Escape2Make logo](assets/images/logo.png)
+![Makers' Club logo](/docs/assets/images/makers-club-logo.jpg)
+![Escape2Make logo](/docs/assets/images/logo.png)
 
 ## Projects by young people 
 
