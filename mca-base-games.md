@@ -5,6 +5,7 @@
 * [Base RPG](https://escape2make.github.io/base-rpg/)
 * [Base shooty](https://escape2make.github.io/base-shooty/)
 * [Base 2 player](https://escape2make.github.io/base-2-player/)
+* [Base 3D](https://escape2make.github.io/base-3d/)
 
 Click _edit_, at bottom of the linked pages, to make a copy for yourself and work to make it into a fleshed out game.
 
