@@ -1,9 +1,10 @@
 ![Makers' Club logo](/docs/assets/images/makers-club-logo.jpg)
 ![Escape2Make logo](/docs/assets/images/logo.png)
 
-## Projects by young people 
+## Projects by young people
 
-_[none yet ready to publish]_
+* [Relief carving](https://escape2make.github.io/relief-carving)
+* [Tabletop arcade machine](https://escape2make.github.io/tabletop-arcade-machine)
 
 ## Assets
 
